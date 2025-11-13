@@ -44,7 +44,7 @@ This presentation explains several fundamental concepts in materials science and
 
 * `/Presentation-Slides.pdf`: The final 10-slide presentation, ready for viewing.
 
-* `/Presentation-Source.pptx`: The original source file for the presentation.
+* `/Presentation-Source.pdf`: The original source file for the presentation.
 
 ## Original Research Paper
 
